@@ -23,7 +23,7 @@
 <!-- Future project cards -->
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔧 Coming Soon | Placeholder for future research or personal builds | ANSYS, SolidWorks, Python |
+| 🔧 NHRL Combat Robot - 3 lbs. | Placeholder for future research or personal builds | Inventor, C++ |
 
 ---
 
