@@ -24,9 +24,7 @@
 | Project | Description | Tech Used | Link |
 |--------|-------------|------------|------------|
 | NHRL Combat Robot - 3 lbs. | Six pound horizontal spinner walker | Inventor, C++ | Placeholder |
-|--------|-------------|------------|------------|
 | NHRL Combat Robot - 12 lbs. (?) | In the far far future maybe... | Inventor, C++ | Placeholder |
-|--------|-------------|------------|------------|
 | Voron V2.4R2 rev D Build| Created a 3D printer from a LDO kit | Linux, Inventor, Manual Building | Placeholder |
 
 ---
