@@ -21,11 +21,12 @@
 ### ⚙️ Projects
 
 <!-- Future project cards -->
-| Project | Description | Tech Used | Link |
-|--------|-------------|------------|------------|
-| NHRL Combat Robot - 3 lb. | 6 lb. servo propelled horizontal spinner | Inventor, C++ | Placeholder |
-| NHRL Combat Robot - 12 lb. | Looking into an upscaled 24 lb. version of my 6 lb. robot | Inventor, C++, FEA | Placeholder |
-| Voron V2.4R2 rev D Build| Created a 3D printer from a LDO kit | Linux, Inventor | Placeholder |
+| Project                    | Description                                                  | Tech Used            | Link                                                                 |
+|----------------------------|--------------------------------------------------------------|----------------------|----------------------------------------------------------------------|
+| NHRL Combat Robot - 3 lb.  | 6 lb. servo propelled horizontal spinner                     | Inventor, C++        | [View Repo](https://github.com/Tate-Friedrich/Project-NHRL.HW3lb)             |
+| NHRL Combat Robot - 12 lb. | Looking into an upscaled 24 lb. version of my 6 lb. robot    | Inventor, C++, FEA   | [View Repo](https://github.com/Tate-Friedrich/Project-NHRL.HW12lb)            |
+| Voron V2.4R2 rev D Build   | Created a 3D printer from a LDO kit                          | Linux, Inventor      | [View Repo](https://github.com/Tate-Friedrich/Project-Voron2.4)      |
+
 
 ---
 
