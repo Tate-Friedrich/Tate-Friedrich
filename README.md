@@ -2,7 +2,7 @@
 
 <h1 align="center">🧨 Tate B. Friedrich</h1>
 <p align="center">
-  <em>Explosive & Mechanical Engineer | Researcher | Defense Technologist</em><br>
+  <em>Explosive & Mechanical Engineer | Researcher | Defense Nerd</em><br>
   <strong>Seeking impactful work in weapons design & defensive structure development.</strong>
 </p>
 
@@ -89,9 +89,9 @@ Published in _Defense Technology_
 
 ### 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-tatefriedrich%40gmail.com-blue?style=flat&logo=gmail)](mailto:tatefriedrich@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green?style=flat&logo=orcid)](https://orcid.org/your-id)
+[![Email](https://img.shields.io/badge/Email-tateb.friedrich%40gmail.com-blue?style=flat&logo=gmail)](mailto:tateb.friedrich@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tate-friedrich-835b1321b)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1121--5728-green?style=flat&logo=orcid)](https://orcid.org/0009-0003-1121-5728)
 
 ---
 
