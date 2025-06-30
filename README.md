@@ -30,6 +30,8 @@
 ### 🧠 Skills & Tools
 
 #### 💻 Software & Tools
+![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-Gray?style=flat&logo=camera)
+![HQDFM](https://img.shields.io/badge/HQDFM-Black?style=flat&logo=code)
 ![MS Office](https://img.shields.io/badge/MS_Office-0078D4?style=flat&logo=microsoft-office&logoColor=white)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFB000?style=flat&logo=ni&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFC107?style=flat&logo=ansys&logoColor=black)
@@ -38,8 +40,6 @@
 ![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=flat&logo=mathworks&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB7?style=flat&logo=kicad&logoColor=white)
-![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-Gray?style=flat&logo=camera)
-![HQDFM](https://img.shields.io/badge/HQDFM-Black?style=flat&logo=code)
 
 #### 🎯 Engineering Domains
 - Explosives Handling & Safety
