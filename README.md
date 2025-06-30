@@ -18,6 +18,15 @@
 
 ---
 
+### ⚙️ Projects
+
+<!-- Future project cards -->
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔧 Coming Soon | Placeholder for future research or personal builds | ANSYS, SolidWorks, Python |
+
+---
+
 ### 🧠 Skills & Tools
 
 #### 💻 Software & Programming
@@ -67,15 +76,6 @@ _U.S. Army Corps of Engineers, St. Louis, MO (May 2022 – Aug 2023)_
 “Application of Gurney and Flight of Fragment Calculations for Water Jet Velocities in Explosive Applications.”  
 Published in _Defense Technology_  
 📎 [Read the paper](https://doi.org/10.1016/j.dt.2025.03.010)
-
----
-
-### ⚙️ Projects
-
-<!-- Future project cards -->
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔧 Coming Soon | Placeholder for future research or personal builds | ANSYS, SolidWorks, Python |
 
 ---
 
