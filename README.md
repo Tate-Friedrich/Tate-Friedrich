@@ -31,7 +31,7 @@
 
 ### 🧠 Skills & Tools
 
-#### 💻 Software & Tools
+#### Software & Tools
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFC107?style=flat&logo=ansys&logoColor=black)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFB000?style=flat&logo=ni&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=flat&logo=solidworks&logoColor=white)
@@ -43,7 +43,7 @@
 ![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-800080?style=flat&logo=camera)
 ![HQDFM](https://img.shields.io/badge/HQDFM-FF0000?style=flat&logo=code)
 
-#### 🎯 Engineering Domains
+#### Engineering Domains
 - Explosives Handling & Safety
 - Internal / External Ballistics
 - Shockwave Physics
@@ -54,21 +54,21 @@
 
 ---
 
-### 🧪 Experience
+### Experience
 
-**🔬 Graduate Research Assistant**  
+**Graduate Research Assistant**  
 _Missouri University of Science and Technology (Aug 2024 – Present)_  
 - Applied Gurney equations to water jet-based projectors  
 - Designed & executed explosives experiments; analyzed high-speed data  
 - Published research & presented findings at academic conferences  
 
-**🏛️ Mechanical Engineering Intern**  
+**Mechanical Engineering Intern**  
 _Engineering Research and Development Center, Vicksburg, MI (Aug 2024 – Present)_  
 - Performed ballistic testing of ceramic materials for DoD applications  
 - Managed contract research & predictive modeling of health impacts  
 - Held active CAC (Common Access Card)  
 
-**🏗️ Mechanical Engineering Intern**  
+**Mechanical Engineering Intern**  
 _U.S. Army Corps of Engineers, St. Louis, MO (May 2022 – Aug 2023)_  
 - Supported large-scale defense infrastructure projects  
 - Evaluated government contracts for feasibility & safety compliance  
@@ -86,8 +86,8 @@ Published in _Defense Technology_
 
 ### 🏅 Honors & Activities
 
-- 🎓 **Honors Academy**, Missouri S&T  
-- 🤖 **Combat Robotics Team** – Documentation Lead  
+- **Honors Academy**, Missouri S&T  
+- **Combat Robotics Team** – Documentation Lead  
 - 🦅 **Eagle Scout**, Boy Scouts of America – Order of the Arrow (Brotherhood)
 
 ---
