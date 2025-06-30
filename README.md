@@ -11,9 +11,9 @@
 ### 🎓 Education
 
 **Missouri University of Science and Technology**  
-- 🧪 **M.S. Explosive Engineering** — GPA: 4.0  
+- **M.S. Explosive Engineering** — GPA: 4.0  
   _Thesis: “Characterization and Refinement of Blasting Outputs for Nanodiamonds – CARBON”_  
-- 🛠️ **B.S. Mechanical Engineering** — GPA: 3.77  
+- **B.S. Mechanical Engineering** — GPA: 3.77  
   _Minor: Electrical Engineering and Explosive Engineering_  
 
 ---
@@ -21,9 +21,13 @@
 ### ⚙️ Projects
 
 <!-- Future project cards -->
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔧 NHRL Combat Robot - 3 lbs. | Placeholder for future research or personal builds | Inventor, C++ |
+| Project | Description | Tech Used | Link |
+|--------|-------------|------------|------------|
+| NHRL Combat Robot - 3 lbs. | Six pound horizontal spinner walker | Inventor, C++ | Placeholder |
+|--------|-------------|------------|------------|
+| NHRL Combat Robot - 12 lbs. (?) | In the far far future maybe... | Inventor, C++ | Placeholder |
+|--------|-------------|------------|------------|
+| Voron V2.4R2 rev D Build| Created a 3D printer from a LDO kit | Linux, Inventor, Manual Building | Placeholder |
 
 ---
 
