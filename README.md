@@ -38,8 +38,8 @@
 ![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=flat&logo=mathworks&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB7?style=flat&logo=kicad&logoColor=white)
-![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-Purple?style=flat&logo=camera&logoColor=white)
-![HQDFM](https://img.shields.io/badge/HQDFM-Blue?style=flat&logo=code&logoColor=white)
+![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-Gray?style=flat&logo=camera&logoColor=white)
+![HQDFM](https://img.shields.io/badge/HQDFM-Black?style=flat&logo=code&logoColor=white)
 
 #### 🎯 Engineering Domains
 - Explosives Handling & Safety
