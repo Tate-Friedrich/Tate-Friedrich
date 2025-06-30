@@ -30,8 +30,8 @@
 ### 🧠 Skills & Tools
 
 #### 💻 Software & Tools
-![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-Gray?style=flat&logo=camera)
-![HQDFM](https://img.shields.io/badge/HQDFM-Black?style=flat&logo=code)
+![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-800080?style=flat&logo=camera)
+![HQDFM](https://img.shields.io/badge/HQDFM-FF0000?style=flat&logo=code)
 ![MS Office](https://img.shields.io/badge/MS_Office-0078D4?style=flat&logo=microsoft-office&logoColor=white)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFB000?style=flat&logo=ni&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFC107?style=flat&logo=ansys&logoColor=black)
