@@ -34,9 +34,9 @@
 - Explosives Handling & Safety
 - Internal / External Ballistics
 - Shockwave Physics
-- Mechanics of Materials
+- Mechatronics / System Integration
 - 3D Printing
-- Defense Simulation & Testing
+- Defense Orientend Simulation & Testing
 
 ---
 
