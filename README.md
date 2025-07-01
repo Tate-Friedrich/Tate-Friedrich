@@ -70,7 +70,7 @@
 
 #### Engineering Domains
 - Explosives Handling & Safety
-- Internal / External Ballistics
+- Internal / External / Terminal Ballistics
 - Shockwave Physics
 - Defense Orientend Simulation & Testing
 - High-Speed Imaging & Data Acquisition  
