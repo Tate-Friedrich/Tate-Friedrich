@@ -59,11 +59,11 @@
 &nbsp;
 [![Simulink](https://img.shields.io/badge/Simulink-white?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/simulink.html)
 &nbsp;
-[![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera)](https://www.phantomhighspeed.com/products/software/pcc)
+[![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera)](https://www.phantomhighspeed.com/resourcesandsupport/phantomresources/pccsoftware)
 &nbsp;
-[![HQDFM](https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code)](https://example.com) <!-- replace with real link -->
+[![HQDFM](https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code)](https://www.nextpcb.com)
 &nbsp;
-[![NI Multisim](https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code)](https://www.ni.com/en-us/support/downloads/software-products/download.multisim.html)
+[![NI Multisim](https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code)](https://www.multisim.com)
 
 </div>
 
