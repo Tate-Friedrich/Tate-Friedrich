@@ -33,28 +33,6 @@
 
 ### Knowledge
 
-![Static Badge]()
-
-
-#### Software & Tools
-<p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=Ansys&logoColor=black&logoSize=auto&link=https%3A%2F%2Fwww.ansys.com">
-  <img src="https://img.shields.io/badge/%20Labview-white?style=for-the-badge&logo=labview&logoColor=black&logoSize=auto" />
-  <img src="https://img.shields.io/badge/%20Autodesk-white?style=for-the-badge&logo=autodesk&logoColor=black&logoSize=auto" />
-  <img src="https://img.shields.io/badge/%20Solidworks-white?style=for-the-badge&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto" />
-  <img src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0&logoSize=auto" />
-  <img src="https://img.shields.io/badge/%20C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MS_Office-white?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-white?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simulink-white?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera" />
-  <img src="https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code" />
-  <img src="https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code" />
-</p>
-
 #### Software & Tools
 
 <div align="center">
@@ -72,8 +50,6 @@
 [![C++](https://img.shields.io/badge/%20C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto)](https://isocpp.org/)
 
 </div>
-
-<br>
 
 <div align="center">
 
