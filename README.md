@@ -127,11 +127,11 @@ Published in _Defense Technology_
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-tateb.friedrich%40gmail.com-blue?style=flat&logo=gmail)](mailto:tateb.friedrich@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tateb.friedrich%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:tateb.friedrich@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tate%20Friedrich-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tate-friedrich-835b1321b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tate%20Friedrich-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tate-friedrich-835b1321b)
 &nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1121--5728-green?style=flat&logo=orcid)](https://orcid.org/0009-0003-1121-5728)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1121--5728-green?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0003-1121-5728)
 
 </div>
 
