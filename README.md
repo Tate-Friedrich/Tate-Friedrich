@@ -48,6 +48,26 @@
 ![HQDFM](https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code)
 ![NI Multisim](https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code)
 
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=ansys&logoColor=black&logoSize=auto" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/%20Labview-white?style=for-the-badge&logo=labview&logoColor=black&logoSize=auto" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/%20Autodesk-white?style=for-the-badge&logo=autodesk&logoColor=black&logoSize=auto" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/%20Solidworks-white?style=for-the-badge&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0&logoSize=auto" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/%20C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/MS_Office-white?style=for-the-badge&logo=microsoft-office&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/MATLAB-white?style=for-the-badge&logo=mathworks&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Simulink-white?style=for-the-badge&logo=mathworks&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code" /></td>
+  </tr>
+</table>
+
+
 #### Engineering Domains
 - Explosives Handling & Safety
 - Internal / External Ballistics
