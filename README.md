@@ -60,7 +60,7 @@
 ### Experience
 
 **Graduate Research Assistant**  
-_Missouri University of Science and Technology (Aug 2024 – Present)_  
+_Missouri University of Science and Technology, Rolla, MO (Aug 2024 – Present)_  
 - Applied Gurney equations to water jet-based projectors  
 - Designed & executed explosives experiments; analyzed high-speed data  
 - Published research & presented findings at academic conferences  
