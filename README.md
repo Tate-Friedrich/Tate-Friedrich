@@ -88,13 +88,16 @@
 _Missouri University of Science and Technology, Rolla, MO (Aug 2024 – Present)_  
 - Applied Gurney equations to water jet-based projectors  
 - Designed & executed explosives experiments; analyzed high-speed data  
-- Published research & presented findings at academic conferences  
+- Published research & presented findings at academic conferences
+- Collaborating with goverment institutions on research topics
 
 **Mechanical Engineering Intern**  
 _Engineering Research and Development Center, Vicksburg, MI (Aug 2024 – Present)_  
 - Performed ballistic testing of ceramic materials for DoD applications  
-- Managed contract research & predictive modeling of health impacts  
-- Currently holding active CAC (Common Access Card)  
+- Managed contract research & predictive modeling of health impacts
+- Created plans and proposals for live weapon tests
+- Designed and fabricated research equipment
+- *Currently holding active CAC (Common Access Card)*  
 
 **Mechanical Engineering Intern**  
 _U.S. Army Corps of Engineers, St. Louis, MO (May 2022 – Aug 2023)_  
