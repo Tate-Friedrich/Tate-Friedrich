@@ -38,13 +38,13 @@
 ![LabVIEW](https://img.shields.io/badge/%20Labview-white?style=for-the-badge&logo=labview&logoColor=black&logoSize=auto)
 ![Inventor](https://img.shields.io/badge/%20Autodesk-white?style=for-the-badge&logo=autodesk&logoColor=black&logoSize=auto)
 ![SolidWorks](https://img.shields.io/badge/%20Solidworks-white?style=for-the-badge&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto)
+![KiCad](https://img.shields.io/badge/%20-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0&logoSize=auto)
 ![C++](https://img.shields.io/badge/%20C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto)
+
+![MS Office](https://img.shields.io/badge/MS_Office-white?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-white?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-white?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera)
-
-![MS Office](https://img.shields.io/badge/MS_Office-white?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![KiCad](https://img.shields.io/badge/%20-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0&logoSize=auto)
 ![HQDFM](https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code)
 ![NI Multisim](https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code)
 
