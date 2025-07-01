@@ -49,21 +49,21 @@
 ![NI Multisim](https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code)
 
 <p align="center">
-  <img width="120px" src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=ansys&logoColor=black&logoSize=auto" />
-  <img width="120px" src="https://img.shields.io/badge/%20Labview-white?style=for-the-badge&logo=labview&logoColor=black&logoSize=auto" />
-  <img width="120px" src="https://img.shields.io/badge/%20Autodesk-white?style=for-the-badge&logo=autodesk&logoColor=black&logoSize=auto" />
-  <img width="120px" src="https://img.shields.io/badge/%20Solidworks-white?style=for-the-badge&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto" />
-  <img width="120px" src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0&logoSize=auto" />
-  <img width="120px" src="https://img.shields.io/badge/%20C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto" />
+  ![ANSYS](https://img.shields.io/badge/%20-white?style=for-the-badge&logo=ansys&logoColor=black&logoSize=auto)&nbsp;&nbsp;
+  ![LabVIEW](https://img.shields.io/badge/%20Labview-white?style=for-the-badge&logo=labview&logoColor=black&logoSize=auto)&nbsp;&nbsp;
+  ![Inventor](https://img.shields.io/badge/%20Autodesk-white?style=for-the-badge&logo=autodesk&logoColor=black&logoSize=auto)&nbsp;&nbsp;
+  ![SolidWorks](https://img.shields.io/badge/%20Solidworks-white?style=for-the-badge&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto)&nbsp;&nbsp;
+  ![KiCad](https://img.shields.io/badge/%20-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0&logoSize=auto)&nbsp;&nbsp;
+  ![C++](https://img.shields.io/badge/%20C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto)
 </p>
 
 <p align="center">
-  <img width="120px" src="https://img.shields.io/badge/MS_Office-white?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  <img width="120px" src="https://img.shields.io/badge/MATLAB-white?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img width="120px" src="https://img.shields.io/badge/Simulink-white?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img width="120px" src="https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera" />
-  <img width="120px" src="https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code" />
-  <img width="120px" src="https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code" />
+  ![MS Office](https://img.shields.io/badge/MS_Office-white?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;&nbsp;
+  ![MATLAB](https://img.shields.io/badge/MATLAB-white?style=for-the-badge&logo=mathworks&logoColor=white)&nbsp;&nbsp;
+  ![Simulink](https://img.shields.io/badge/Simulink-white?style=for-the-badge&logo=mathworks&logoColor=white)&nbsp;&nbsp;
+  ![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera)&nbsp;&nbsp;
+  ![HQDFM](https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code)&nbsp;&nbsp;
+  ![NI Multisim](https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code)
 </p>
 
 #### Engineering Domains
