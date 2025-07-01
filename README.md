@@ -49,7 +49,7 @@
 &nbsp;
 [![C++](https://img.shields.io/badge/%20C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto)](https://isocpp.org/)
 &nbsp;
-[![Fortran](https://img.shields.io/badge/Fortran-white?style=for-the-badge&logo=fortran&logoColor=%23734F96&logoSize=auto)](https%3A%2F%2Ffortran-lang.org)
+[![Fortran](https://img.shields.io/badge/Fortran-white?style=for-the-badge&logo=fortran&logoColor=%23734F96&logoSize=auto)](https://www.fortran-lang.org)
 
 
 </div>
