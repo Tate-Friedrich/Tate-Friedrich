@@ -69,7 +69,7 @@ _Missouri University of Science and Technology (Aug 2024 – Present)_
 _Engineering Research and Development Center, Vicksburg, MI (Aug 2024 – Present)_  
 - Performed ballistic testing of ceramic materials for DoD applications  
 - Managed contract research & predictive modeling of health impacts  
-- Held active CAC (Common Access Card)  
+- Currently holding active CAC (Common Access Card)  
 
 **Mechanical Engineering Intern**  
 _U.S. Army Corps of Engineers, St. Louis, MO (May 2022 – Aug 2023)_  
