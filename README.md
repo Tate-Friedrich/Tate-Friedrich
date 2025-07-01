@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![MS Office](https://img.shields.io/badge/MS_Office-white?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-white?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
 &nbsp;
 [![MATLAB](https://img.shields.io/badge/MATLAB-white?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 &nbsp;
