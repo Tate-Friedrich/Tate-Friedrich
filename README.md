@@ -41,7 +41,8 @@
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-white?style=flat&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto)
+![C++](https://img.shields.io/badge/%20-white?style=flat&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto)
+
 
 ![MS Office](https://img.shields.io/badge/MS_Office-0078D4?style=flat&logo=microsoft-office&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=flat&logo=mathworks&logoColor=white)
