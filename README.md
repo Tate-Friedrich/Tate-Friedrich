@@ -29,7 +29,6 @@
 | NHRL Combat Robot - 12 lb. | Looking into an upscaled 24 lb. version of my 6 lb.          | Inventor, C++, FEA   | [View Repo](https://github.com/Tate-Friedrich/Project-NHRL.HW12lb)   |
 | Nanodiamond Maximization   | Explosives engieering thesis                                 | Unknown              | [View Repo](https://github.com/Tate-Friedrich/Project-ExpThesis)     |
 
-
 ---
 
 ### 🧠 Skills & Tools
