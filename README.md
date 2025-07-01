@@ -31,7 +31,7 @@
 
 ---
 
-### 🧠 Skills & Tools
+### 🧠 Knowledge
 
 #### Software & Tools
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFC107?style=flat&logo=ansys&logoColor=black)
