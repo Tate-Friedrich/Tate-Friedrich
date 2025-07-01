@@ -35,20 +35,14 @@
 
 #### Software & Tools
 ![ANSYS](https://img.shields.io/badge/%20-white?style=flat&logo=ansys&logoColor=black&logoSize=auto)
-![LabVIEW](https://img.shields.io/badge/%20-cyan?style=flat&logo=labview&logoColor=black&logoSize=auto)
-![Inventor](https://img.shields.io/badge/%20-white?style=flat&logo=autodesk&logoColor=black&logoSize=auto)
+![LabVIEW](https://img.shields.io/badge/%20Labview-cyan?style=flat&logo=labview&logoColor=black&logoSize=auto)
+![Inventor](https://img.shields.io/badge/%20Autodesk-white?style=flat&logo=autodesk&logoColor=black&logoSize=auto)
 ![SolidWorks](https://img.shields.io/badge/%20Solidworks-white?style=flat&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto)
-
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-
-![C++](https://img.shields.io/badge/%20-white?style=flat&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto)
-
-
+![C++](https://img.shields.io/badge/%20C++-white?style=flat&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto)
 ![MS Office](https://img.shields.io/badge/MS_Office-0078D4?style=flat&logo=microsoft-office&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=flat&logo=mathworks&logoColor=white)
-
 ![KiCad](https://img.shields.io/badge/%20-white?style=flat&logo=kicad&logoColor=%23314CB0&logoSize=auto)
-
 ![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-800080?style=flat&logo=camera)
 ![HQDFM](https://img.shields.io/badge/HQDFM-FF0000?style=flat&logo=code)
 
