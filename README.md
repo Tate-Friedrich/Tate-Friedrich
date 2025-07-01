@@ -93,7 +93,7 @@ _Missouri University of Science and Technology, Rolla, MO (Aug 2024 – Present)
 
 **Mechanical Engineering Intern**  
 _Engineering Research and Development Center, Vicksburg, MI (Aug 2024 – Present)_  
-***Currently holding active CAC (Common Access Card)***  
+- ***Currently holding active CAC (Common Access Card)***  
 - Performed ballistic testing of ceramic materials for DoD applications  
 - Managed contract research & predictive modeling of health impacts  
 - Created plans and proposals for live weapon tests  
