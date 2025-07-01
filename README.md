@@ -1,6 +1,6 @@
 <!-- GitHub README.md for Tate B. Friedrich -->
 
-<h1 align="center">🧨 Tate B. Friedrich</h1>
+<h1 align="center">🧨 Tate B. Friedrich 💥</h1>
 <p align="center">
   <em>Explosive & Mechanical Engineer | Researcher | Defense Nerd</em><br>
   <strong>Seeking impactful work in weapons design & defensive structure development.</strong>
