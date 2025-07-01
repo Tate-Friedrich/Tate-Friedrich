@@ -3,7 +3,7 @@
 <h1 align="center">🧨 Tate B. Friedrich 💥</h1>
 <p align="center">
   <em>Explosive & Mechanical Engineer | Researcher | Defense Nerd</em><br>
-  <strong>Seeking impactful work in weapons design & defensive structure development.</strong>
+  <strong>Performing impactful work in weapons design & defensive structure development.</strong>
 </p>
 
 ---
