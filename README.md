@@ -129,9 +129,6 @@ Published in _Defense Technology_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tate%20Friedrich-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tate-friedrich-835b1321b)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1121--5728-green?style=flat&logo=orcid)](https://orcid.org/0009-0003-1121-5728)
 
----
-
-
 <p align="center">
   ⚔️ <em>Engineering for defense, discovery, and because it's cool.</em>  
 </p>
