@@ -45,7 +45,11 @@
 ![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-800080?style=flat&logo=camera)
 ![HQDFM](https://img.shields.io/badge/HQDFM-FF0000?style=flat&logo=code)
 
+<img align="left" alt="Ansys" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ansys_logo.svg">
 <img align="left" atl="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+<img align="left" atl="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
+
+---
 
 #### Engineering Domains
 - Explosives Handling & Safety
