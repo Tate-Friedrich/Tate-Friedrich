@@ -72,6 +72,35 @@
 
 </div>
 
+<p>
+  <img src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=ansys&logoColor=black" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20Labview-white?style=for-the-badge&logo=labview&logoColor=black" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20Autodesk-white?style=for-the-badge&logo=autodesk&logoColor=black" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20Solidworks-white?style=for-the-badge&logo=dassaultsystemes&logoColor=%23005386" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%20C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MS_Office-white?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MATLAB-white?style=for-the-badge&logo=mathworks&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Simulink-white?style=for-the-badge&logo=mathworks&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code" />
+</p>
+
+
 #### Engineering Domains
 - Explosives Handling & Safety
 - Internal / External Ballistics
