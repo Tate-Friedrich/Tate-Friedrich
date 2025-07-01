@@ -48,22 +48,22 @@
 ![HQDFM](https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code)
 ![NI Multisim](https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code)
 
-<p align="justify">
-  <img src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=ansys&logoColor=black" width="120">
-  <img src="https://img.shields.io/badge/%20Labview-white?style=for-the-badge&logo=labview&logoColor=black" width="120">
-  <img src="https://img.shields.io/badge/%20Autodesk-white?style=for-the-badge&logo=autodesk&logoColor=black" width="120">
-  <img src="https://img.shields.io/badge/%20Solidworks-white?style=for-the-badge&logo=dassaultsystemes&logoColor=%23005386" width="120">
-  <img src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0" width="120">
-  <img src="https://img.shields.io/badge/%20C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C" width="120">
+<p align="center">
+  <img width="120px" src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=ansys&logoColor=black&logoSize=auto" />
+  <img width="120px" src="https://img.shields.io/badge/%20Labview-white?style=for-the-badge&logo=labview&logoColor=black&logoSize=auto" />
+  <img width="120px" src="https://img.shields.io/badge/%20Autodesk-white?style=for-the-badge&logo=autodesk&logoColor=black&logoSize=auto" />
+  <img width="120px" src="https://img.shields.io/badge/%20Solidworks-white?style=for-the-badge&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto" />
+  <img width="120px" src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0&logoSize=auto" />
+  <img width="120px" src="https://img.shields.io/badge/%20C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto" />
 </p>
 
-<p align="justify">
-  <img src="https://img.shields.io/badge/MS_Office-white?style=for-the-badge&logo=microsoft-office&logoColor=white" width="120">
-  <img src="https://img.shields.io/badge/MATLAB-white?style=for-the-badge&logo=mathworks&logoColor=white" width="120">
-  <img src="https://img.shields.io/badge/Simulink-white?style=for-the-badge&logo=mathworks&logoColor=white" width="120">
-  <img src="https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera" width="120">
-  <img src="https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code" width="120">
-  <img src="https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code" width="120">
+<p align="center">
+  <img width="120px" src="https://img.shields.io/badge/MS_Office-white?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img width="120px" src="https://img.shields.io/badge/MATLAB-white?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img width="120px" src="https://img.shields.io/badge/Simulink-white?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img width="120px" src="https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera" />
+  <img width="120px" src="https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code" />
+  <img width="120px" src="https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code" />
 </p>
 
 #### Engineering Domains
