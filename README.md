@@ -35,7 +35,7 @@
 
 #### Software & Tools
 <p align="center">
-  <img src="[https://img.shields.io/badge/%20-white?style=for-the-badge&logo=ansys&logoColor=black&logoSize=auto](https://img.shields.io/badge/%20-white?style=for-the-badge&logo=Ansys&logoColor=black&logoSize=auto&link=https%3A%2F%2Fwww.ansys.com)" />
+  <img src="https://img.shields.io/badge/%20-white?style=for-the-badge&logo=Ansys&logoColor=black&logoSize=auto&link=https%3A%2F%2Fwww.ansys.com" />
   <img src="https://img.shields.io/badge/%20Labview-white?style=for-the-badge&logo=labview&logoColor=black&logoSize=auto" />
   <img src="https://img.shields.io/badge/%20Autodesk-white?style=for-the-badge&logo=autodesk&logoColor=black&logoSize=auto" />
   <img src="https://img.shields.io/badge/%20Solidworks-white?style=for-the-badge&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto" />
