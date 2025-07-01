@@ -34,8 +34,8 @@
 ### Knowledge
 
 #### Software & Tools
-![ANSYS](https://img.shields.io/badge/%20-white?style=flat&logo=ansys&logoColor=black&logoSize=auto)
-![LabVIEW](https://img.shields.io/badge/%20Labview-white?style=flat&logo=labview&logoColor=black&logoSize=auto)
+![ANSYS](https://img.shields.io/badge/%20-white?style=for-the-badge&logo=ansys&logoColor=black&logoSize=auto)
+![LabVIEW](https://img.shields.io/badge/%20Labview-white?style=social&logo=labview&logoColor=black&logoSize=auto)
 ![Inventor](https://img.shields.io/badge/%20Autodesk-white?style=flat&logo=autodesk&logoColor=black&logoSize=auto)
 ![SolidWorks](https://img.shields.io/badge/%20Solidworks-white?style=flat&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto)
 ![C++](https://img.shields.io/badge/%20C++-white?style=flat&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto)
