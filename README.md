@@ -45,6 +45,7 @@
 ![KiCad](https://img.shields.io/badge/%20-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0&logoSize=auto)
 ![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera)
 ![HQDFM](https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code)
+![NI Multisim](https://img.shields.io/badge/NI%20Multisim-white?style=for-the-badge&logo=code)
 
 #### Engineering Domains
 - Explosives Handling & Safety
