@@ -35,16 +35,16 @@
 
 #### Software & Tools
 ![ANSYS](https://img.shields.io/badge/%20-white?style=for-the-badge&logo=ansys&logoColor=black&logoSize=auto)
-![LabVIEW](https://img.shields.io/badge/%20Labview-white?style=social&logo=labview&logoColor=black&logoSize=auto)
-![Inventor](https://img.shields.io/badge/%20Autodesk-white?style=flat&logo=autodesk&logoColor=black&logoSize=auto)
-![SolidWorks](https://img.shields.io/badge/%20Solidworks-white?style=flat&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto)
-![C++](https://img.shields.io/badge/%20C++-white?style=flat&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto)
-![MS Office](https://img.shields.io/badge/MS_Office-white?style=flat&logo=microsoft-office&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-white?style=flat&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-white?style=flat&logo=mathworks&logoColor=white)
-![KiCad](https://img.shields.io/badge/%20-white?style=flat&logo=kicad&logoColor=%23314CB0&logoSize=auto)
-![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-white?style=flat&logo=camera)
-![HQDFM](https://img.shields.io/badge/HQDFM-white?style=flat&logo=code)
+![LabVIEW](https://img.shields.io/badge/%20Labview-white?style=for-the-badge&logo=labview&logoColor=black&logoSize=auto)
+![Inventor](https://img.shields.io/badge/%20Autodesk-white?style=for-the-badge&logo=autodesk&logoColor=black&logoSize=auto)
+![SolidWorks](https://img.shields.io/badge/%20Solidworks-white?style=for-the-badge&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto)
+![C++](https://img.shields.io/badge/%20C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto)
+![MS Office](https://img.shields.io/badge/MS_Office-white?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-white?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-white?style=for-the-badge&logo=mathworks&logoColor=white)
+![KiCad](https://img.shields.io/badge/%20-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0&logoSize=auto)
+![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-white?style=for-the-badge&logo=camera)
+![HQDFM](https://img.shields.io/badge/HQDFM-white?style=for-the-badge&logo=code)
 
 #### Engineering Domains
 - Explosives Handling & Safety
