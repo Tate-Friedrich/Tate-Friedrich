@@ -45,6 +45,8 @@
 ![Phantom PCC](https://img.shields.io/badge/Phantom_PCC-800080?style=flat&logo=camera)
 ![HQDFM](https://img.shields.io/badge/HQDFM-FF0000?style=flat&logo=code)
 
+<img align="left" atl="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+
 #### Engineering Domains
 - Explosives Handling & Safety
 - Internal / External Ballistics
