@@ -35,7 +35,7 @@
 
 #### Software & Tools
 ![ANSYS](https://img.shields.io/badge/%20-white?style=flat&logo=ansys&logoColor=black&logoSize=auto)
-![LabVIEW](https://img.shields.io/badge/%20Labview-cyan?style=flat&logo=labview&logoColor=black&logoSize=auto)
+![LabVIEW](https://img.shields.io/badge/%20Labview-white?style=flat&logo=labview&logoColor=black&logoSize=auto)
 ![Inventor](https://img.shields.io/badge/%20Autodesk-white?style=flat&logo=autodesk&logoColor=black&logoSize=auto)
 ![SolidWorks](https://img.shields.io/badge/%20Solidworks-white?style=flat&logo=dassaultsystemes&logoColor=%23005386&logoSize=auto)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
