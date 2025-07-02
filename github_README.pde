@@ -12,7 +12,7 @@ void setup() {
   fill(0);
 
   strs[0][0] = "Hey there!";
-  strs[0][1] = "My name is Mason Slover.";
+  strs[0][1] = "My name is Tate Friedrich.";
 
   strs[1][0] = "I'm a Mathematics & Computer Science Major";
   strs[1][1] = "at Fordham University at Lincoln Center in New York City.";
