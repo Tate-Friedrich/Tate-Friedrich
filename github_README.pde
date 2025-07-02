@@ -23,8 +23,8 @@ void setup() {
   strs[3][0] = "I've worked on systems integration, PLC coding, and explosives handling.";
   strs[3][1] = "You can even more stuff I've done below and in my projects!";
 
-  strs[5][0] = "Feel free to reach out to say hi!";
-  strs[5][1] = "My contact information is at the bottom of this page";
+  strs[4][0] = "Feel free to reach out to say hi!";
+  strs[4][1] = "My contact information is at the bottom of this page";
 }
 
 int i = 0;
