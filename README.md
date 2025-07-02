@@ -23,7 +23,7 @@
 
 | Project                    | Description                                                  | Tech Used            | Link                                                                        |
 |----------------------------|--------------------------------------------------------------|----------------------|-----------------------------------------------------------------------------|
-| Voron V2.4R2 rev D Build   | Created a 3D printer from a LDO kit                          | Linux, Inventor      | [View Repo](https://github.com/Tate-Friedrich/Project-Voron2.4) (WIP)       |
+| Voron V2.4R2 rev D Build   | Created a 3D printer from a LDO kit                          | Linux, Inventor      | [View Repo](https://github.com/Tate-Friedrich/Project-Voron2.4)             |
 | Universal Recoil Mount     | Mechanical engineering senior design project                 | Ansys, Inventor      | [View Repo](https://github.com/Tate-Friedrich/Project-MechSeniorProj) (WIP) |
 | NHRL Combat Robot - 3 lb.  | 6 lb. servo propelled horizontal spinner                     | Inventor, C++        | [View Repo](https://github.com/Tate-Friedrich/Project-NHRL.HW3lb) (WIP)     |
 | NHRL Combat Robot - 12 lb. | Looking into an upscaled 24 lb. version of my 6 lb.          | Inventor, C++, FEA   | [View Repo](https://github.com/Tate-Friedrich/Project-NHRL.HW12lb) (WIP)    |
