@@ -1,5 +1,19 @@
+import gifAnimation.*;  // Import the GifAnimation library
+
 String[][] strs = new String[6][2];
 PFont font;
+
+GifMaker gifExport;     // Gif maker instance
+
+int i = 0;
+boolean delete = false;
+int s = 0;
+int offset = 50;
+int mainFontSize = 60;
+int secondaryFontSize = 40;
+
+int pauseFrames = 0;
+int pauseLength = 45; // ~1.5 seconds at 30fps
 
 void setup() {
   size(2000, 600);
@@ -10,6 +24,12 @@ void setup() {
   textSize(40);
   background(255);
   fill(0);
+
+  // Set up gif export
+  gifExport = new GifMaker(this, "output.gif");
+  gifExport.setRepeat(0); // loop forever
+  gifExport.setQuality(10);
+  gifExport.setDelay(33); // 30fps
 
 strs[0][0] = "Hey there!";
 strs[0][1] = "I'm Tate Friedrich—great to meet you.";
@@ -31,19 +51,12 @@ strs[5][1] = "You’ll find my contact info at the bottom of the page.";
 
 }
 
-int i = 0;
-boolean delete = false;
-int s = 0;
-int offset = 50;
-int mainFontSize = 60;
-int secondaryFontSize = 40;
-
-
 void draw() {
   background(255);
 
   if (s < strs.length) {
     if ((strs[s][0].length() >= i || strs[s][1].length() >= i) && !delete) {
+      // Typing animation
       if (strs[s][0].length() >= i) {
         textSize(mainFontSize);
         text(strs[s][0].substring(0, i), width/2, height/2 - offset);
@@ -60,15 +73,22 @@ void draw() {
       }
       i++;
     } else {
-      if (!delete) {
-        delay(1500);
+      // Hold full text for pauseLength frames
+      if (!delete && pauseFrames < pauseLength) {
+        textSize(mainFontSize);
+        text(strs[s][0], width/2, height/2 - offset);
+        textSize(secondaryFontSize);
+        text(strs[s][1], width/2, height/2 + offset);
+
+        pauseFrames++;
+        gifExport.addFrame();
+        return; // wait before starting delete
       }
       delete = true;
     }
 
-
+    // Deleting animation
     if (delete) {
-
       if (i > 0) {
         if (i < strs[s][0].length()) {
           textSize(mainFontSize);
@@ -88,8 +108,14 @@ void draw() {
       } else {
         delete = false;
         s++;
+        pauseFrames = 0;  // reset pause for next section
       }
     }
 
+    gifExport.addFrame(); // Add this frame to gif
+  } else {
+    gifExport.finish(); // Finalize gif
+    noLoop();
+    println("GIF saved.");
   }
 }
