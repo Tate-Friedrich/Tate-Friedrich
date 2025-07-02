@@ -2,7 +2,7 @@ String[][] strs = new String[6][2];
 PFont font;
 
 void setup() {
-  size(1920, 1080);
+  size(2000, 600);
   font = createFont("HelveticaNeue-48.vlw", 48);
   textFont(font);
   frameRate(30);
@@ -11,20 +11,24 @@ void setup() {
   background(255);
   fill(0);
 
-  strs[0][0] = "Hey there!";
-  strs[0][1] = "My name is Tate Friedrich.";
+strs[0][0] = "Hey there!";
+strs[0][1] = "I'm Tate Friedrich—great to meet you.";
 
-  strs[1][0] = "I'm a Mechanical Engineer / Explosives Engineer / Sorry I couldn't choose";
-  strs[1][1] = "I got my undergrad and graduate degree at Missouri S&T";
+strs[1][0] = "I'm a multidisciplinary engineer with a broad skill set.";
+strs[1][1] = "I earned both my undergraduate and graduate degrees from Missouri S&T.";
 
-  strs[2][0] = "I've been trying to learn as much as I can.";
-  strs[2][1] = "I can do both typical Mechanical Engineering stuff and more.";
+strs[2][0] = "My background spans Explosives, Mechanical, and Electrical Engineering.";
+strs[2][1] = "It’s an unusual mix—but it keeps things exciting.";
 
-  strs[3][0] = "I've worked on systems integration, PLC coding, and explosives handling.";
-  strs[3][1] = "You can even more stuff I've done below and in my projects!";
+strs[3][0] = "I’m passionate about solving problems across different disciplines.";
+strs[3][1] = "Each challenge is a chance to learn something new.";
 
-  strs[4][0] = "Feel free to reach out to say hi!";
-  strs[4][1] = "My contact information is at the bottom of this page";
+strs[4][0] = "I’ve worked on everything from systems integration to PLCs to explosives.";
+strs[4][1] = "Scroll down to explore more of my work and past projects.";
+
+strs[5][0] = "Don’t hesitate to reach out—I'd love to connect!";
+strs[5][1] = "You’ll find my contact info at the bottom of the page.";
+
 }
 
 int i = 0;
@@ -86,7 +90,6 @@ void draw() {
         s++;
       }
     }
-    //print(i + " ");
-    //s++;
+
   }
 }
