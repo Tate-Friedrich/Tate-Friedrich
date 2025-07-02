@@ -1,6 +1,6 @@
 <!-- GitHub README.md for Tate B. Friedrich -->
 
-![Titlecard](https://github.com/Tate-Friedrich/Tate-Friedrich/blob/main/output.gif)
+![Titlecard](https://github.com/Tate-Friedrich/Tate-Friedrich/blob/main/Titlecard.gif)
 
 <p align="center">
   <em>Explosive & Mechanical Engineer | Researcher | Defense Nerd</em><br>
