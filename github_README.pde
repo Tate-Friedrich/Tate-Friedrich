@@ -14,17 +14,17 @@ void setup() {
   strs[0][0] = "Hey there!";
   strs[0][1] = "My name is Tate Friedrich.";
 
-  strs[1][0] = "I'm a Mathematics & Computer Science Major";
-  strs[1][1] = "at Fordham University at Lincoln Center in New York City.";
+  strs[1][0] = "I'm a Mechanical Engineer / Explosives Engineer / Sorry I couldn't choose";
+  strs[1][1] = "I got my undergrad and graduate degree at Missouri S&T";
 
-  strs[2][0] = "I've been teaching myself how to code for 6 years!";
-  strs[2][1] = "I am fluent in Java, C++, Python, Swift, JavaScript, and HTML & CSS.";
+  strs[2][0] = "I've been trying to learn as much as I can.";
+  strs[2][1] = "I can do both typical Mechanical Engineering stuff and more.";
 
-  strs[3][0] = "I've created apps, websites, and art using what I've learned.";
-  strs[3][1] = "You can even find the Processing source code for this below!";
+  strs[3][0] = "I've worked on systems integration, PLC coding, and explosives handling.";
+  strs[3][1] = "You can even more stuff I've done below and in my projects!";
 
   strs[5][0] = "Feel free to reach out to say hi!";
-  strs[5][1] = "phone: (512) 739-2405 | email: masonslover@gmail.com";
+  strs[5][1] = "My contact information is at the bottom of this page";
 }
 
 int i = 0;
