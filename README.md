@@ -1,6 +1,7 @@
 <!-- GitHub README.md for Tate B. Friedrich -->
 
-<h1 align="center">🧨 Tate B. Friedrich 💥</h1>
+
+
 <p align="center">
   <em>Explosive & Mechanical Engineer | Researcher | Defense Nerd</em><br>
   <strong>Performing impactful work in weapons design & defensive structure development.</strong>
@@ -20,7 +21,6 @@
 
 ### ⚙️ Projects
 
-<!-- Future project cards -->
 | Project                    | Description                                                  | Tech Used            | Link                                                                        |
 |----------------------------|--------------------------------------------------------------|----------------------|-----------------------------------------------------------------------------|
 | Voron V2.4R2 rev D Build   | Created a 3D printer from a LDO kit                          | Linux, Inventor      | [View Repo](https://github.com/Tate-Friedrich/Project-Voron2.4) (WIP)       |
@@ -106,7 +106,7 @@ _U.S. Army Corps of Engineers, St. Louis, MO (May 2022 – Aug 2023)_
 
 ---
 
-### 📄 Publication
+### Publication
 
 **Friedrich, T.**, Bauer, R., and Johnson, C.  
 “Application of Gurney and Flight of Fragment Calculations for Water Jet Velocities in Explosive Applications.”  
@@ -115,7 +115,7 @@ Published in _Defense Technology_
 
 ---
 
-### 🏅 Honors & Activities
+### Honors & Activities
 
 - **Honors Academy**, Missouri S&T  
 - **Combat Robotics Team** – Documentation Lead  
@@ -123,7 +123,7 @@ Published in _Defense Technology_
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <div align="center">
 
