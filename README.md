@@ -129,7 +129,7 @@ Published in _Defense Technology_
 
 [![Email](https://img.shields.io/badge/Email-tateb.friedrich%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:tateb.friedrich@gmail.com)
 &nbsp;
-[![Phone](https://img.shields.io/badge/Phone-573--275--8118-blue?style=for-the-badge&logo=linkedin)]
+[![Phone](https://img.shields.io/badge/Phone-573--275--8118-blue?style=for-the-badge&logo=linkedin)]()
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tate%20Friedrich-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tate-friedrich-835b1321b)
 &nbsp;
