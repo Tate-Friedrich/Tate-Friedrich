@@ -28,7 +28,7 @@
 | NHRL Combat Robot - 3 lb.  | 6 lb. servo propelled horizontal spinner                     | Inventor, C++        | [View Repo](https://github.com/Tate-Friedrich/Project-NHRL.HW3lb) (WIP)     |
 | NHRL Combat Robot - 12 lb. | Looking into an upscaled 24 lb. version of my 6 lb.          | Inventor, C++, FEA   | [View Repo](https://github.com/Tate-Friedrich/Project-NHRL.HW12lb) (WIP)    |
 | NHRL Combat Robot - 12 lb. | Strange dual beater bar walker thing (?)                     | Inventor, C++, FEA   | [View Repo](https://github.com/Tate-Friedrich/Project-NHRL.HW12lb) (WIP)    |
-| Nanodiamond Maximization   | Explosives engieering thesis                                 | Unknown              | [View Repo](https://github.com/Tate-Friedrich/Project-ExpThesis) (WIP)      |
+| Nanodiamond Maximization   | Explosives engineering thesis                                 | Unknown              | [View Repo](https://github.com/Tate-Friedrich/Project-ExpThesis) (WIP)      |
 
 ---
 
