@@ -75,7 +75,7 @@
 </div>
 
 
-#### Engineering Domains
+#### Engineering Domains & Knowledge
 - Explosives Handling & Safety
 - Internal / External / Terminal Ballistics
 - Shockwave Physics
