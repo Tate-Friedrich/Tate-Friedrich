@@ -11,10 +11,12 @@
 
 ### 🎓 Education
 
-**Missouri University of Science and Technology**  
+**Missouri University of Science and Technology**
+
 - **M.S. Explosive Engineering** — GPA: 4.0  
-  _Thesis: “Characterization and Refinement of Blasting Outputs for Nanodiamonds – CARBON”_  
-- **B.S. Mechanical Engineering** — GPA: 3.80
+  _Thesis: “Characterization and Refinement of Blasting Outputs for Nanodiamonds – CARBON”_
+
+- **B.S. Mechanical Engineering** — GPA: 3.80  
   _Minor: Electrical Engineering and Explosive Engineering_
 
 ---
