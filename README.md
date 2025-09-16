@@ -117,6 +117,10 @@ _U.S. Army Corps of Engineers, St. Louis, MO (May 2022 – Aug 2023)_
 Published in _Defense Technology_  
 📎 [Read the paper](https://doi.org/10.1016/j.dt.2025.03.010)
 
+Wheeler, M., **Friedrich, T.**, Bauer, R., and Johnson, C.  
+“Characterizing Detonation Cloud Particulates: FY25 Review.”  
+Presented at the _2025 Plant-Directed Research & Development (PDRD) Program Review_, U.S. Department of Energy, Washington, DC — Oct. 22, 2025.
+
 ---
 
 ### Honors & Activities
