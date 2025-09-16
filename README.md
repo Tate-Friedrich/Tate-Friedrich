@@ -83,7 +83,7 @@
 - Defense Orientend Simulation & Testing
 - High-Speed Imaging & Data Acquisition  
 - Mechatronics / System Integration
-- 3D Printing
+- Addative Manufacturing
 
 ---
 
