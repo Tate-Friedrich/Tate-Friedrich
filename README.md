@@ -76,12 +76,10 @@
 
 #### Engineering Domains & Knowledge
 
-| | |
-|---|---|
-| Explosives Handling & Safety | Mechatronics / System Integration |
-| Internal / External / Terminal Ballistics | Addative Manufacturing |
-| Shockwave Physics | High-Speed Imaging & Data Acquisition |
-| Fracture Mechanics | Defense Orientend Simulation & Testing |
+| Explosives Handling & Safety              | Mechatronics / System Integration      |
+| Internal / External / Terminal Ballistics | Addative Manufacturing                 |
+| Shockwave Physics                         | High-Speed Imaging & Data Acquisition  |
+| Fracture Mechanics                        | Defense Orientend Simulation & Testing |
 
 
 ---
