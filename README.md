@@ -79,6 +79,7 @@
 - Explosives Handling & Safety
 - Internal / External / Terminal Ballistics
 - Shockwave Physics
+- Fracture Mechanics
 - Defense Orientend Simulation & Testing
 - High-Speed Imaging & Data Acquisition  
 - Mechatronics / System Integration
