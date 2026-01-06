@@ -16,7 +16,7 @@
 - **M.S. Explosive Engineering** — GPA: 4.0  
   _Thesis: “Characterization and Refinement of Blasting Outputs for Nanodiamonds – CARBON”_
 
-- **B.S. Mechanical Engineering** — GPA: 3.80 / Magna Cum Laude
+- **B.S. Mechanical Engineering** — GPA: 3.80
   _Minor: Electrical Engineering and Explosive Engineering_
 
 ---
