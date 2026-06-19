@@ -145,7 +145,7 @@ Presented at the _2025 Plant-Directed Research & Development (PDRD) Program Revi
 
 ### Honors & Activities
 
-- **Honors Academy**, Missouri S&T  
+- **Honors Academy Fellow**, Missouri S&T  
 - **Combat Robotics Team** – Documentation Lead  
 - 🦅 **Eagle Scout**, Boy Scouts of America – Order of the Arrow (Brotherhood)
 
