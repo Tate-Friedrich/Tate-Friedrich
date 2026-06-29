@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>Explosive & Mechanical Engineer | Researcher | Defense Nerd</em><br>
-  <strong>Performing impactful work in weapons design & defensive structure development.</strong>
+  <strong>Performing impactful work in design & structure development.</strong>
 </p>
 
 ---
